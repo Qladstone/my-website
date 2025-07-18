@@ -19,6 +19,8 @@ function App() {
           Qladstone is a backend software engineer based in Singapore.<br />
           LinkedIn: <a href='http://linkedin.com/in/looquanxiang'>linkedin.com/in/looquanxiang</a><br />
           GitHub: <a href='http://github.com/Qladstone'>github.com/Qladstone</a><br />
+          CV: <a href='https://files.qladstone.com/cv/QX_Resume.pdf'>files.qladstone.com/cv</a><br />
+          
         </p>
       </div>
       <p className="read-the-docs">
